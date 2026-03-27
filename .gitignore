@@ -1,1 +1,12 @@
 .DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
