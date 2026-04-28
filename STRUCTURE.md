@@ -28,6 +28,9 @@ This file is auto-generated on every push to `main` and reflects the repository 
 │   │   ├── README.md
 │   │   └── pyproject.toml
 │   └── README.md
+├── logo
+│   ├── Kalmanworks_logo.png
+│   └── Kalmanworks_logo_compressed.png
 ├── notebooks
 │   ├── development
 │   │   └── Kalman_Filter_class_development.ipynb
@@ -38,5 +41,5 @@ This file is auto-generated on every push to `main` and reflects the repository 
 ├── README.md
 └── STRUCTURE.md
 
-9 directories, 11 files
+10 directories, 13 files
 ```
