@@ -33,6 +33,7 @@ This file is auto-generated on every push to `main` and reflects the repository 
 │   └── Kalmanworks_logo_compressed.png
 ├── notebooks
 │   ├── development
+│   │   ├── 1_Model_Contracts.ipynb
 │   │   └── Kalman_Filter_class_development.ipynb
 │   └── teaching
 │       ├── Part 1 - Introduction to Kalman Filter.ipynb
@@ -41,5 +42,5 @@ This file is auto-generated on every push to `main` and reflects the repository 
 ├── README.md
 └── STRUCTURE.md
 
-10 directories, 13 files
+10 directories, 14 files
 ```
