@@ -1,5 +1,7 @@
 # KalmanWorks
-
+<p align="center">
+  <img width="1248" height="832" alt="KalmanWorks logo" src="logo/Kalmanworks_logo.png">
+</p>
 KalmanWorks is a recursive estimation framework and learning sandbox built to serve learners,
 practicing engineers, and advanced developers. The project aims to abstract the estimator
 machinery enough that users can focus on defining the physics of the problem, while preserving
