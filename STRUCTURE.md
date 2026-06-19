@@ -33,9 +33,10 @@ This file is auto-generated on every push to `main` and reflects the repository 
 │   └── Kalmanworks_logo_compressed.png
 ├── notebooks
 │   ├── development
-│   │   ├── 01_state_vector_definition.ipynb
-│   │   ├── 1_Model_Contracts.ipynb
-│   │   └── Kalman_Filter_class_development.ipynb
+│   │   ├── Archive
+│   │   │   ├── 1_Model_Contracts.ipynb
+│   │   │   └── Kalman_Filter_class_development.ipynb
+│   │   └── 01_state_vector_architecture.ipynb
 │   └── teaching
 │       ├── Part 1 - Introduction to Kalman Filter.ipynb
 │       └── Part 2 - Multivariate Kalman Filter.ipynb
@@ -43,5 +44,5 @@ This file is auto-generated on every push to `main` and reflects the repository 
 ├── README.md
 └── STRUCTURE.md
 
-10 directories, 15 files
+11 directories, 15 files
 ```
